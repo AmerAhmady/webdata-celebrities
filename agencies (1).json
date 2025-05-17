@@ -1,0 +1,20 @@
+[
+  {
+    "id": "AG-001",
+    "name": "Flanders Talent House",
+    "agent": "Els Van Lierde",
+    "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/flanderslogo.png",
+    "foundedYear": 2003,
+    "location": "Antwerpen",
+    "motto": "Talent boven alles"
+  },
+  {
+    "id": "AG-002",
+    "name": "Belgian Starline",
+    "agent": "Johan Peeters",
+    "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/belgianstarline.png",
+    "foundedYear": 1998,
+    "location": "Gent",
+    "motto": "Sterren maken we samen"
+  }
+]

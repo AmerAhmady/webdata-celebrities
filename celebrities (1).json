@@ -1,0 +1,74 @@
+[
+  {
+    "id": "VL-001",
+    "name": "Tom Waes",
+    "description": "Televisiemaker en avonturier, bekend van Reizen Waes.",
+    "age": 55,
+    "isActive": true,
+    "birthDate": "1968-11-07",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/tom-waes.jpg",
+    "profession": "Presentator",
+    "talents": [
+      "Reizen",
+      "Acteren",
+      "Regisseren"
+    ],
+    "agency": {
+      "id": "AG-001",
+      "name": "Flanders Talent House",
+      "agent": "Els Van Lierde",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/flanderslogo.png",
+      "foundedYear": 2003,
+      "location": "Antwerpen",
+      "motto": "Talent boven alles"
+    }
+  },
+  {
+    "id": "VL-002",
+    "name": "Philippe Geubels",
+    "description": "Komiek met een droog gevoel voor humor, vaak te zien op tv.",
+    "age": 43,
+    "isActive": true,
+    "birthDate": "1981-04-15",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/philippe-geubels.jpg",
+    "profession": "Comedian",
+    "talents": [
+      "Stand-up",
+      "Televisie",
+      "Schrijven"
+    ],
+    "agency": {
+      "id": "AG-002",
+      "name": "Belgian Starline",
+      "agent": "Johan Peeters",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/belgianstarline.png",
+      "foundedYear": 1998,
+      "location": "Gent",
+      "motto": "Sterren maken we samen"
+    }
+  },
+  {
+    "id": "VL-003",
+    "name": "Alex Agnew",
+    "description": "Rauwe stand-up comedian met een passie voor rockmuziek.",
+    "age": 50,
+    "isActive": true,
+    "birthDate": "1975-12-22",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/alex-agnew.jpg",
+    "profession": "Comedian",
+    "talents": [
+      "Comedy",
+      "Podcasting",
+      "Muziek"
+    ],
+    "agency": {
+      "id": "AG-001",
+      "name": "Flanders Talent House",
+      "agent": "Els Van Lierde",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/flanderslogo.png",
+      "foundedYear": 2003,
+      "location": "Antwerpen",
+      "motto": "Talent boven alles"
+    }
+  }
+]
