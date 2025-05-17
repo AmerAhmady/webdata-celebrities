@@ -8,11 +8,7 @@
     "birthDate": "1968-11-07",
     "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/tom-waes.jpg",
     "profession": "Presentator",
-    "talents": [
-      "Reizen",
-      "Acteren",
-      "Regisseren"
-    ],
+    "talents": ["Reizen", "Acteren", "Regisseren"],
     "agency": {
       "id": "AG-001",
       "name": "Flanders Talent House",
@@ -32,11 +28,7 @@
     "birthDate": "1981-04-15",
     "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/philippe-geubels.jpg",
     "profession": "Comedian",
-    "talents": [
-      "Stand-up",
-      "Televisie",
-      "Schrijven"
-    ],
+    "talents": ["Stand-up", "Televisie", "Schrijven"],
     "agency": {
       "id": "AG-002",
       "name": "Belgian Starline",
@@ -56,11 +48,7 @@
     "birthDate": "1975-12-22",
     "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/alex-agnew.jpg",
     "profession": "Comedian",
-    "talents": [
-      "Comedy",
-      "Podcasting",
-      "Muziek"
-    ],
+    "talents": ["Comedy", "Podcasting", "Muziek"],
     "agency": {
       "id": "AG-001",
       "name": "Flanders Talent House",
@@ -69,6 +57,146 @@
       "foundedYear": 2003,
       "location": "Antwerpen",
       "motto": "Talent boven alles"
+    }
+  },
+  {
+    "id": "VL-004",
+    "name": "Erik Van Looy",
+    "description": "Regisseur en quizmaster van De Slimste Mens ter Wereld.",
+    "age": 61,
+    "isActive": true,
+    "birthDate": "1962-04-26",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/erik-van-looy.jpg",
+    "profession": "Regisseur",
+    "talents": ["Film", "Quizzen", "Schrijven"],
+    "agency": {
+      "id": "AG-002",
+      "name": "Belgian Starline",
+      "agent": "Johan Peeters",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/belgianstarline.png",
+      "foundedYear": 1998,
+      "location": "Gent",
+      "motto": "Sterren maken we samen"
+    }
+  },
+  {
+    "id": "VL-005",
+    "name": "Celine Van Ouytsel",
+    "description": "Voormalig Miss België, model en presentatrice.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1997-10-10",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/celine-van-ouytsel.jpg",
+    "profession": "Model",
+    "talents": ["Presenteren", "Catwalk", "Sociale media"],
+    "agency": {
+      "id": "AG-002",
+      "name": "Belgian Starline",
+      "agent": "Johan Peeters",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/belgianstarline.png",
+      "foundedYear": 1998,
+      "location": "Gent",
+      "motto": "Sterren maken we samen"
+    }
+  },
+  {
+    "id": "VL-006",
+    "name": "Jeroom Snelders",
+    "description": "Jurylid van De Slimste Mens en cartoonist met scherpe humor.",
+    "age": 46,
+    "isActive": true,
+    "birthDate": "1977-11-03",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/jeroom.jpg",
+    "profession": "Cartoonist",
+    "talents": ["Tekenen", "Televisie", "Humor"],
+    "agency": {
+      "id": "AG-001",
+      "name": "Flanders Talent House",
+      "agent": "Els Van Lierde",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/flanderslogo.png",
+      "foundedYear": 2003,
+      "location": "Antwerpen",
+      "motto": "Talent boven alles"
+    }
+  },
+  {
+    "id": "VL-007",
+    "name": "Bart Peeters",
+    "description": "Zanger en televisiepersoonlijkheid met jarenlange ervaring.",
+    "age": 64,
+    "isActive": true,
+    "birthDate": "1959-11-30",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/bart-peeters.jpg",
+    "profession": "Zanger",
+    "talents": ["Zang", "Gitaar", "TV"],
+    "agency": {
+      "id": "AG-001",
+      "name": "Flanders Talent House",
+      "agent": "Els Van Lierde",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/flanderslogo.png",
+      "foundedYear": 2003,
+      "location": "Antwerpen",
+      "motto": "Talent boven alles"
+    }
+  },
+  {
+    "id": "VL-008",
+    "name": "Kobe Ilsen",
+    "description": "Presentator van programma’s over gezondheid en lifestyle.",
+    "age": 41,
+    "isActive": true,
+    "birthDate": "1983-01-06",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/kobe-ilsen.jpg",
+    "profession": "Presentator",
+    "talents": ["Televisie", "Productie", "Sport"],
+    "agency": {
+      "id": "AG-002",
+      "name": "Belgian Starline",
+      "agent": "Johan Peeters",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/belgianstarline.png",
+      "foundedYear": 1998,
+      "location": "Gent",
+      "motto": "Sterren maken we samen"
+    }
+  },
+  {
+    "id": "VL-009",
+    "name": "Gert Verhulst",
+    "description": "Mede-oprichter van Studio 100, ondernemer en presentator.",
+    "age": 56,
+    "isActive": true,
+    "birthDate": "1968-01-24",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/gert-verhulst.jpg",
+    "profession": "Ondernemer",
+    "talents": ["Zaken", "Entertainment", "Management"],
+    "agency": {
+      "id": "AG-001",
+      "name": "Flanders Talent House",
+      "agent": "Els Van Lierde",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/flanderslogo.png",
+      "foundedYear": 2003,
+      "location": "Antwerpen",
+      "motto": "Talent boven alles"
+    }
+  },
+  {
+    "id": "VL-010",
+    "name": "Kamal Kharmach",
+    "description": "Stand-up comedian en presentator van programma’s over ondernemen.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1991-01-29",
+    "imageUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/kamal-kharmach.jpg",
+    "profession": "Comedian",
+    "talents": ["Comedy", "Onderwijs", "Business"],
+    "agency": {
+      "id": "AG-002",
+      "name": "Belgian Starline",
+      "agent": "Johan Peeters",
+      "logoUrl": "https://raw.githubusercontent.com/AmerAhmady/webdata-celebrities/main/images/belgianstarline.png",
+      "foundedYear": 1998,
+      "location": "Gent",
+      "motto": "Sterren maken we samen"
     }
   }
 ]
